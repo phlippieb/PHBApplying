@@ -1,6 +1,5 @@
 # PHBApplying
 
-[![CI Status](https://img.shields.io/travis/phlippieb/PHBApplying.svg?style=flat)](https://travis-ci.org/phlippieb/PHBApplying)
 [![Version](https://img.shields.io/cocoapods/v/PHBApplying.svg?style=flat)](https://cocoapods.org/pods/PHBApplying)
 [![License](https://img.shields.io/cocoapods/l/PHBApplying.svg?style=flat)](https://cocoapods.org/pods/PHBApplying)
 [![Platform](https://img.shields.io/cocoapods/p/PHBApplying.svg?style=flat)](https://cocoapods.org/pods/PHBApplying)
