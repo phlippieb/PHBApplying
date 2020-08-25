@@ -5,6 +5,8 @@
 //  Created by Phlippie Bosman on 2019/08/09.
 //
 
+import Foundation
+
 /// Conforming types inherit the default `apply` and `applying` methods.
 public protocol Appliable {}
 
