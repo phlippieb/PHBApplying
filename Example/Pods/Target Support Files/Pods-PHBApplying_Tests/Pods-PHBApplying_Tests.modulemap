@@ -1,6 +1,0 @@
-framework module Pods_PHBApplying_Tests {
-  umbrella header "Pods-PHBApplying_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}

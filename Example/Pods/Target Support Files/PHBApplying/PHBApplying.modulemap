@@ -1,6 +1,0 @@
-framework module PHBApplying {
-  umbrella header "PHBApplying-umbrella.h"
-
-  export *
-  module * { export * }
-}
