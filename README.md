@@ -45,6 +45,23 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
+### Swift Package Manager
+
+PHBApplying can be installed via SPM. Add it to your dependencies: 
+
+```swift
+// ...
+dependencies: [
+  .package(url: "https://github.com/phlippieb/PHBApplying.git", from: "0.2.0")
+],
+targets: [
+  .target(name: "YourTarget", dependencies: ["PHBApplying"])
+],
+// ... 
+```
+
+### Cocoapods
+
 PHBApplying is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
