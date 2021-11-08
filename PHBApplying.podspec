@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.author           = { 'phlippieb' => 'phlippie.bosman@gmail.com' }
   s.source           = { :git => 'https://github.com/phlippieb/PHBApplying.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
-  s.swift_version = '5.0'
+  s.swift_version = '4.0'
   s.source_files = 'Sources/PHBApplying/**/*.swift'
 end

@@ -52,7 +52,7 @@ PHBApplying can be installed via SPM. Add it to your dependencies:
 ```swift
 // ...
 dependencies: [
-  .package(url: "https://github.com/phlippieb/PHBApplying.git", from: "0.2.0")
+  .package(url: "https://github.com/phlippieb/PHBApplying.git", from: "0.2.1")
 ],
 targets: [
   .target(name: "YourTarget", dependencies: ["PHBApplying"])
@@ -66,7 +66,7 @@ PHBApplying is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'PHBApplying'
+pod 'PHBApplying', '~> 0.2.1'
 ```
 
 ## Author
